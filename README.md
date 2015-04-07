@@ -1,2 +1,2 @@
 # Net-i
-FM for any graph-based network
+An FM for any graph-based network.
